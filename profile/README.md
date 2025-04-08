@@ -1,4 +1,11 @@
-# 선린인고 급식 알림 서비스
+![Cover Image](https://github.com/sunrin-today/.github/blob/assets/cover.png)
+
+# Sunrin Today
+
+Sunrin Internet High School Lunch Service
+
+<br>
+
 
 ## Instagram
 [sunrin_today](https://instagram.com/sunrin_today)
