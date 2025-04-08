@@ -11,4 +11,4 @@ Sunrin Internet High School Lunch Service
 [sunrin_today](https://instagram.com/sunrin_today)
 
 ### Administrator
-[jwkwon0817](https://github.com/jwkwon0817) [iamfiro](https://github.com/iamfiro)
+[Jeewon Kwon](https://github.com/jwkwon0817) [Sungju Cho](https://github.com/iamfiro)
