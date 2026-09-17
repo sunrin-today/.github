@@ -2,13 +2,11 @@
 
 # Sunrin Today
 
-선린인터넷고등학교 급식 서비스
+선린인터넷고등학교 급식 서비스 · [@sunrin_today](https://instagram.com/sunrin_today)
 
-[Instagram @sunrin_today](https://instagram.com/sunrin_today)
-
-- [api](https://github.com/sunrin-today/api)
-- [meal-uploader](https://github.com/sunrin-today/meal-uploader)
-- [instagram-uploader](https://github.com/sunrin-today/instagram-uploader)
+- [api](https://github.com/sunrin-today/api) — 급식 조회/쓰기
+- [meal-uploader](https://github.com/sunrin-today/meal-uploader) — 나이스 → API
+- [instagram-uploader](https://github.com/sunrin-today/instagram-uploader) — API → Instagram
 
 ## 아키텍처
 
