@@ -10,8 +10,6 @@
 
 ## 아키텍처
 
-GCP `sunrin-today` · `asia-northeast1`
-
 ```mermaid
 flowchart LR
   Scheduler[Cloud Scheduler] --> MealJob[meal-uploader Job]
